@@ -20,20 +20,20 @@ Personal finance applications will ask users to add their expenses and based on 
 
 
 ## 🔗 LINKS
-- NITIN VIGNESHWAR-https://github.com/IBM-EPBL/IBM-Project-24603-1659945488/tree/main/ASSIGNMENTS/Team_Leader-Nitin%20Vigneshwar/Assignment1
-- NIYAZ MOHAMED-https://github.com/IBM-EPBL/IBM-Project-24603-1659945488/tree/main/ASSIGNMENTS/Team_member-1-Niyaz_Mohamed
-- NITHYA-https://github.com/IBM-EPBL/IBM-Project-24603-1659945488/tree/main/ASSIGNMENTS/Team_member-2-Nithya_B
-- NIVETHA-https://github.com/IBM-EPBL/IBM-Project-24603-1659945488/tree/main/ASSIGNMENTS/Team_member-3-Nivetha_D
+- NITIN VIGNESHWAR       [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-24603-1659945488/tree/main/ASSIGNMENTS/Team_Leader-Nitin%20Vigneshwar/Assignment1)
+- NIYAZ MOHAMED       [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-24603-1659945488/tree/main/ASSIGNMENTS/Team_member-1-Niyaz_Mohamed)
+- NITHYA        [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-24603-1659945488/tree/main/ASSIGNMENTS/Team_member-2-Nithya_B)
+- NIVETHA  [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-24603-1659945488/tree/main/ASSIGNMENTS/Team_member-3-Nivetha_D)
 
 
 
 ## EMPATHY MAP CANVAS :
 
-   - [EMPATHY MAP LINK]-(https://github.com/IBM-EPBL/IBM-Project-24603-1659945488/blob/main/Pre-Developement/Ideation%20Phase/empathy-map.pdf)
+   - [EMPATHY MAP LINK](https://github.com/IBM-EPBL/IBM-Project-24603-1659945488/blob/main/Pre-Developement/Ideation%20Phase/empathy-map.pdf)
 
 ## BRAINSTORMING - IDEA GENERATION :
 
-   - [BRAINSTORMING]-(https://github.com/IBM-EPBL/IBM-Project-24603-1659945488/blob/main/Pre-Developement/Ideation%20Phase/Brainstorming.pdf)
+   - [BRAINSTORMING](https://github.com/IBM-EPBL/IBM-Project-24603-1659945488/blob/main/Pre-Developement/Ideation%20Phase/Brainstorming.pdf)
 
 
 ## LITERATURE SURVEY :
